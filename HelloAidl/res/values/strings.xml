@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloAidl</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textoSum">La suma es</string>
+     <string name="textoSum2">Esperando la suma del servicio</string>
+       <string name="textoData">Entero</string>
+          <string name="textoString">Esperando texto del servicio</string>
+           <string name="ArrayTexto">Esperando el array del servicio</string>
+     
+
+</resources>
